@@ -10,5 +10,6 @@ public class BeloHorizonte implements ICalcularImposto {
 	
 	 imposto = area * 7 + nQuartos * 4;
 	 System.out.println("O imposto para o morador de BH sera:"+imposto);
+	 
 	}
 }
